@@ -7,7 +7,7 @@ Modified by Hao for personal use
 */
 
 *{margin:0; padding:0;}
-body {background:#fff url(background.jpg) top center no-repeat; color:#303030; font:98% Tahoma,sans-serif; line-height:1.6em;}
+body {background:#fff url(background.jpg) top center no-repeat; color:#303030; font:98% Helvetica,sans-serif; line-height:1.6em;}
 a {color:#001A57; text-decoration:underline;}
 a:hover {text-decoration:underline;}
 p,ul,ol,dl {margin:0 0 30px 0;}
