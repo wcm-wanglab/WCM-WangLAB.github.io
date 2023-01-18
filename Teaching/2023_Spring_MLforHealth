@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 2.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
@@ -54,9 +55,9 @@
 		<!--<h2>What Starts Here Changes The World!</h2>-->
 		<br>
 			
-		<h2>INFO 5375: Health Tech Oriented Machine Learning</h2>
+		<h2>HINF 5012: Artificial Intelligence in Medicine</h2>
 		
-		<font style="font-weight: bold; color: red">Jan 23-May 8 – Tuesdays and Thursdays 9:45—11:00 A.M. </font>
+		<font style="font-weight: bold; color: red">Jan 09-April 21 – Tuesday 5:00—8:00 P.M. </font>
 		<br>
 		<br>
 		
@@ -64,13 +65,10 @@
 		<br>
 		<br>
 		
-		<font style="font-weight: bold">Course Objective</font>: This course introduces students the various types of health data, including patient clinical records, medical images, 
-		physiological and vital signals from wearable sensors, multi-omics, etc. and how to use machine learning algorithms to analyze these data 
-		and help with real world health problems such as patient screening, risk modeling, disease subtyping and precision medicine. 
-		The technical topics to be introduced in this class include classic supervised and unsupervised learning, network analysis, 
-		probabilistic modeling, deep learning, transfer learning, algorithmic fairness and interpretability. We will also invite clinicians or 
-		researchers working in the health industry to deliver guest lecturers in the class. The students will gain hands-on experience on 
-		analyzing real world health data during course assignments and projects.  <br>
+		<font style="font-weight: bold">Course Objective</font>: We will start introducing students the basic concepts of artificial intelligence (AI) and its history.  
+		Then we introduce medical data representations and conventional AI technologies including supervised and unsupervised learning approaches. 
+		We will also introduce deep learning models including convolutional neural networks and recurrent neural networks, as well as knowledge representation with knowledge graphs and mining with graph neural networks.
+		After the class the students will be able to understand the basic concept of AI and solve the computational health problem with the learned knowledge.  <br>
 		
 		<br>
 		
@@ -78,18 +76,30 @@
 		
 		<br>
 		
-		<font style="font-weight: bold">Teaching Assistants</font>: Emily Tseng (<a href = "mailto:et397@cornell.edu">et397@cornell.edu</a>).<br>
+		<font style="font-weight: bold">Teaching Assistants</font>: Zhenxing Xu (<a href = "mailto:zhx2005@med.cornell.edu">zhx2005@med.cornell.edu</a>); Zilong Bai (<a href = "mailto:zib4001@med.cornell.edu">zib4001@med.cornell.edu</a>).<br>
 		
 		<br>
 		
+		<font style="font-weight: bold">Course Learning Objectives</font>: 
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">The objective of this course is to:</li>
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">Formulate the computational health problems.</li>
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">Understand conventional AI approaches for supervised and unsupervised learning.</li>
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">Understand different types of deep learning approaches.</li>
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">Understand knowledge representation and knowledge base.</li>
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">Apply appropriate computational tool for solving different computational health problems.
+			
+			
+		<br>
+				
+			
 		<font style="font-weight: bold">Course Format</font>: 
-		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">75 minutes lectures twice a week (including guest lectures) </li>
-		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">3 programming assignments</li>
-		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">1 final project (in groups, 2-3 students per group)</li>
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">Every week there will be either a 3-hour lecture or in-class programming exercise in Python.</li>
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">There will be 4 writing assignments (question-answering) and 3 programming assignments.</li>
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">There will be a final exam.</li>
 		
 		<br>
 		
-		<font style="font-weight: bold">Prerequisites</font>: Machine Learning, Python Programming<br>
+		<font style="font-weight: bold">Prerequisites</font>: Introduction to Biostatistics; Programming in Python<br>
 
 		
 		<br>
@@ -100,221 +110,103 @@
 				<th>Date</th>
 				<th>Content</th>
 				<th>Presenter</th>
-				<th>Materials</th>
 				<th>Assignments</th>
 			</tr>
 			<tr>
-				<td>01/24/2023</td>
-				<td>Introduction of machine learning</td>
-				<td>Zilong Bai</td>
+				<td>01/10/2023</td>
+				<td>Programming: Introduction to Python</td>
+				<td>Zhenxing Xu/ Zilong Bai</td>
         			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
 			</tr>
 			<tr>
-				<td>01/26/2023</td>
-				<td>Introduction of medicine and healthcare</td>
+				<td>01/17/2023</td>
+				<td>Lecture: Introduction to AI</td>
 				<td>Fei Wang</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
+				<td>Programming Assignment 1 Posted</td>
+			</tr>
+			<tr>
+				<td>01/24/2023</td>
+				<td>Lecture: Supervised Learning for Classification and Predictive Modeling</td>
+				<td>Fei Wang</td>
+				<td>Writing Assignment 1 Posted</td>
+        			
 			</tr>
 			<tr>
 				<td>01/31/2023</td>
-				<td>Machine learning in clinical risk prediction</td>
-				<td>Fei Wang</td>
+				<td>Programming: Supervised Learning</td>
+				<td>Zhenxing Xu/ Zilong Bai</td>
         			<td>&nbsp;</td>
-        			<td>Group formation due</td>	
-			</tr>
-			<tr>
-				<td>02/02/2023</td>
-				<td>Generalizability of machine learning models in clinical risk prediction settings</td>
-				<td>Suraj Rajendran</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
+        		
 			</tr>
 			<tr>
 				<td>02/07/2023</td>
-				<td>Federated Learning</td>
+				<td>Lecture: Unsupervised Learning for Clustering and Subtype Discovery</td>
 				<td>Fei Wang</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-				<td>02/09/2023</td>
-				<td>Multi-modal learning</td>
-				<td>Group Presentation</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
+				<td>Writing Assignment 1 Due, Writing Assignment 2 Posted</td>
 			</tr>
 			<tr>
 				<td>02/14/2023</td>
-				<td>Do we need model interpretability in clinical risk prediction?</td>
-				<td>Group Debates</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-				<td>02/16/2023</td>
-				<td>Algorithmic bias</td>
-				<td>Weishen Pan</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
+				<td>Programming: Clustering</td>
+				<td>Zhenxing Xu / Zilong Bai</td>
+				<td>Programming Assignment 1 Due, Programming Assignment 2 Posted</td>
 			</tr>
 			<tr>
 				<td>02/21/2023</td>
-				<td>Reporting guidelines</td>
-				<td>Group Presentation</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-				<td>02/23/2023</td>
-				<td>Regulatory policies</td>
+				<td>Lecture: Deep Learning – Convolutional Neural Networks</td>
 				<td>Fei Wang</td>
-        			<td>&nbsp;</td>
-				<td>&nbsp;</td>
+        			<td>Writing Assignment 2 Due, Writing Assignment 3 Posted</td>	
 			</tr>
 			<tr>
-				<td>03/28/2023</td>
-				<td>Break</td>
-				<td>&nbsp;</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-				<td>03/02/2023</td>
-				<td>Machine learning for critical care</td>
-				<td>Ed Schenck</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
+				<td>02/28/2023</td>
+				<td>Programming: CNN</td>
+				<td>Zhenxing Xu / Zilong Bai</td>
+        			<td>Writing Assignment 4 Posted</td>	
 			</tr>
 			<tr>
 				<td>03/07/2023</td>
-				<td>Machine learning for pharmaceutical research & development</td>
+				<td>Lecture: Deep Learning – Recurrent Neural Networks</td>
 				<td>Fei Wang</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-				<td>03/09/2023</td>
-				<td>Molecule design</td>
-				<td>TBD</td>
-        			<td>&nbsp;</td>
-        			<td>Assignment 2 Due</td>	
+        			<td>Programming Assignment 2 Due</td>	
 			</tr>
 			<tr>
 				<td>03/14/2023</td>
-				<td>Genetics and genomics</td>
-				<td>TBD</td>
-        			<td>&nbsp;</td>
-				<td>&nbsp;</td>	
-        				
-			</tr>
-			<tr>
-				<td>03/16/2023</td>
-				<td>Disease subtyping</td>
-				<td>Fei Wang</td>
-        			<td>&nbsp;</td>
-        			<td>Project Proposal Due</td>	
+				<td>Programming: RNN</td>
+				<td>Zhenxing Xu / Zilong Bai</td>
+        			<td>Writing Assignment 3 Due, Programming Assignment 3 Posted</td>
 			</tr>
 			<tr>
 				<td>03/21/2023</td>
-				<td>Trial Emulation</td>
-				<td>Chengxi Zang</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-				<td>03/23/2023</td>
-				<td>Eligibility Criteria Design</td>
+				<td>Label Propagation, Graph Neural Network and Knowledge Graph</td>
 				<td>Fei Wang</td>
         			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
+        				
 			</tr>
 			<tr>
 				<td>03/28/2023</td>
-				<td>Pharmacovigilance</td>
-				<td>Fei Wang</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-				<td>03/30/2023</td>
-				<td>AI for pharmacology</td>
-				<td>Fei Wang</td>
-        			<td>TBD;</td>
-        			<td>&nbsp;</td>	
+				<td>Programming: Graph Analysis</td>
+				<td>Zhenxing Xu / Zilong Bai</td>
+        			<td>Writing Assignment 4 Due</td>	
 			</tr>
 			<tr>
 				<td>04/04/2023</td>
-				<td>Break</td>
-				<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-				<td>&nbsp;</td>
-					
-			</tr>
-			<tr>
-				<td>04/06/2023</td>
-				<td>Break</td>
-				<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-				<td>&nbsp;</td>
+				<td>Lecture: Advanced Topics/td>
+				<td>Fei Wang</td>
+        			<td>Programming Assignment 3 Due</td>	
 			</tr>
 			<tr>
 				<td>04/11/2023</td>
-				<td> Where would machine learning be more likely to succeed in innovating pharma R&D? Molecule design or clinical trials?</td>
-				<td>Group Debate</td>
-        			<td>&nbsp;</td>
+				<td>Course Review</td>
         			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-				<td>04/13/2022</td>
-				<td>Consumer Health - Mental Health</td>
-				<td>Dan Adler</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
+				<td>&nbsp;</td>	
 			</tr>
 			<tr>
 				<td>04/18/2023</td>
-				<td>Consumer Health - Behavioral Health</td>
-				<td>Group Presentations</td>
+				<td>Final Exam</td>
         			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
+				<td>&nbsp;</td>	
+        			
 			</tr>
-			<tr>
-				<td>04/20/2023</td>
-				<td>Consumer Health - Cardiovascular Health</td>
-				<td>Group Presentations</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-			        <td>04/27/2023</td>
-				<td>Public Health/Epidemiology</td>
-				<td>TBD</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-			        <td>05/02/2023</td>
-				<td>Final Project Presentation</td>
-				<td>Students</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-			        <td>05/04/2023</td>
-				<td>Final Project Presentation</td>
-				<td>Students</td>
-        			<td>&nbsp;</td>
-        			<td>&nbsp;</td>	
-			</tr>
-			<tr>
-				<td>05/08/2023</td>
-				<td>Class Wrap-up</td>
-				<td>Fei Wang</td>
-        			<td>&nbsp;</td>
-        			<td>Final Project Report Due</td>	
-			</tr>
+
 		</table>
 		<p class="credits">&copy; Fei Wang <br />
 		</ul>
@@ -324,3 +216,4 @@
 
 </body>
 </html>
+
