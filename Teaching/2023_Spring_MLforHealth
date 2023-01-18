@@ -1,1 +1,311 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 2.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<style>
+		table, th, td {
+			border: 1px solid black;
+		}
+		
+		td, th {
+			padding-top: 5px;
+			padding-bottom: 5px;
+			padding-left: 10px;
+			padding-right: 10px;
+		}
+		
+		th {
+			text-align: center;
+		}
+	</style>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Homepage for Group of Professor Fei Wang, Department of Population Health Sciences, Weill Cornell Medicine Colledge" />
+	<meta name="keywords" content="Machine Learning for Healthy Data" />
+	<meta name="Homepage for Group of Professor Fei Wang" content="Research" />
+	<link rel="stylesheet" type="text/css" href="../../Hao.css" title="Basic Profile" media="all" />
+	<title>INFO 5375: Health Tech Oriented Machine Learning</title>
+</head>
 
+<body>
+
+
+	<div id="sidebar">
+		<a href="index.html"><img src="../../images/Fei_Wang.jpeg"  height="230" alt="Sample logotype" /></a>
+		<!-- <p class="slogan">everyone has a story to tell</p> -->
+		
+		<ul>
+			<!--<li><a href="#">Page one</a><br />The front page...</li>-->
+			<li><a href="../../index.html">Home</a></li>
+			<li><a href="../../papers.html">Publications</a></li>
+			<li><a href="../../members.html">Group Member</a></li>
+			<li><a href="../../presentations.html">Presentations</a></li>
+			<li><a href="../../teaching.html">Teaching</a></li>
+			<p>
+			<font size="2">Department of Population Health Sciences, Weill Cornell Medicine<br>
+			425 E 61 St.<br>
+			New York City, NY 10065<br></font>
+		</ul>
+	</div>
+	
+	
+	<!--style="font-family: Calibri; color: blue; text-decoration: underline;"-->
+
+	<div id="content">
+		<!--<h2>What Starts Here Changes The World!</h2>-->
+		<br>
+			
+		<h2>INFO 5375: Health Tech Oriented Machine Learning</h2>
+		
+		<font style="font-weight: bold; color: red">Jan 24-May 10 – Mondays and Wednesdays 9:40—10:55 A.M. </font>
+		<br>
+		<br>
+		
+		<font style="font-weight: bold">Instructor</font>: Fei Wang (<a href = "mailto:few2001@med.cornell.edu">few2001@med.cornell.edu</a>)
+		<br>
+		<br>
+		
+		<font style="font-weight: bold">Course Objective</font>: This course introduces students the various types of health data, including patient clinical records, medical images, 
+		physiological and vital signals from wearable sensors, multi-omics, etc. and how to use machine learning algorithms to analyze these data 
+		and help with real world health problems such as patient screening, risk modeling, disease subtyping and precision medicine. 
+		The technical topics to be introduced in this class include classic supervised and unsupervised learning, network analysis, 
+		probabilistic modeling, deep learning, transfer learning, algorithmic fairness and interpretability. We will also invite clinicians or 
+		researchers working in the health industry to deliver guest lecturers in the class. The students will gain hands-on experience on 
+		analyzing real world health data during course assignments and projects.  <br>
+		
+		<br>
+		
+		<font style="font-weight: bold">Credits</font>: 3 credits.<br>
+		
+		<br>
+		
+		<font style="font-weight: bold">Teaching Assistants</font>: Dan Adler (<a href = "mailto:daa243@cornell.edu">daa243@cornell.edu</a>); 
+		Zilong Bai (<a href = "mailto:zib4001@med.cornell.edu">zib4001@med.cornell.edu</a>).<br>
+		
+		<br>
+		
+		<font style="font-weight: bold">Course Format</font>: 
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">75 minutes lectures twice a week (including guest lectures) </li>
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">3 programming assignments</li>
+		<li style="margin-bottom:6px;margin-top:6px;margin-left:20px">1 final project (in groups, 2-3 students per group)</li>
+		
+		<br>
+		
+		<font style="font-weight: bold">Prerequisites</font>: Machine Learning, Python Programming<br>
+
+		
+		<br>
+		
+		
+		<table>
+			<tr>
+				<th>Date</th>
+				<th>Content</th>
+				<th>Presenter</th>
+				<th>Materials</th>
+				<th>Assignments</th>
+			</tr>
+			<tr>
+				<td>01/24/2022</td>
+				<td>Introduction of machine learning and healthcare</td>
+				<td>Fei Wang</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>01/26/2022</td>
+				<td>Overview of healthcare data and machine learning strategies</td>
+				<td>Fei Wang</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>01/31/2022</td>
+				<td>Predictive Modeling with Electronic Health Records</td>
+				<td>Zhenxing Xu</td>
+        			<td>&nbsp;</td>
+        			<td>Assignment 1 Posted</td>	
+			</tr>
+			<tr>
+				<td>02/02/2022</td>
+				<td>Predictive Modeling with Mobile Sensing Data</td>
+				<td>Dan Adler</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>02/07/2022</td>
+				<td>Predictive Modeling with Multi-Modal Health Data</td>
+				<td>Benjamin Glicksberg</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>02/09/2022</td>
+				<td>Disease Subphenotyping with Electronic Health Records</td>
+				<td>Chang Su</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>02/14/2022</td>
+				<td>Longitudinal Disease Subphenotyping with Electronic Health Records</td>
+				<td>Hao Zhang</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>02/16/2022</td>
+				<td>Machine Learning for Critical Care</td>
+				<td>Edward Schenck</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>02/21/2022</td>
+				<td>Evaluating Machine Learning for Real-World Implemetation</td>
+				<td>Yiye Zhang</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>02/23/2022</td>
+				<td>Medical Image Analysis using Multi-Modal Data</td>
+				<td>Yingying Zhu</td>
+        			<td>&nbsp;</td>
+        			<td>Assignment 1 Due, Assignment 2 Posted</td>	
+			</tr>
+			<tr>
+				<td>03/02/2022</td>
+				<td>Machine Learning for Alzheimer's Disease</td>
+				<td>Jiayu Zhou</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>03/07/2022</td>
+				<td>Computational Pathology</td>
+				<td>Matthew Brendel</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>03/09/2022</td>
+				<td>Machine Learning for Rheumatology</td>
+				<td>Richard Bell</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>03/14/2022</td>
+				<td>Mid-term Course Review</td>
+				<td>Fei Wang</td>
+        			<td>&nbsp;</td>
+        			<td>Assignment 2 Due</td>	
+			</tr>
+			
+			<tr>
+				<td>03/16/2022</td>
+				<td>Clinical Natural Language Processing I</td>
+				<td>Yifan Peng</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>03/21/2022</td>
+				<td>Canceled</td>
+				<td>Canceled</td>
+        			<td>&nbsp;</td>
+        			<td>Final Project Proposal Due, Assignment 3 Posted</td>	
+			</tr>
+			<tr>
+				<td>03/23/2022</td>
+				<td>Biomedical Ontologies</td>
+				<td>Licong Cui</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>03/28/2022</td>
+				<td>Clinical Natural Language Processing II</td>
+				<td>Yanshan Wang</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>03/30/2022</td>
+				<td>Biomedical Knowledge Graph</td>
+				<td>Rui Zhang</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>04/11/2022</td>
+				<td>Machine Learning for Multi-Omics Analysis</td>
+				<td>Yue Li</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>04/13/2022</td>
+				<td>Graph Learning for Pharmaceutical Research and Design</td>
+				<td>Fei Wang</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>04/18/2022</td>
+				<td>High-Throughput Trial Emulation with Real World Data</td>
+				<td>Chengxi Zang</td>
+        			<td>&nbsp;</td>
+        			<td>Assignment 3 Due</td>	
+			</tr>
+			<tr>
+				<td>04/20/2022</td>
+				<td>TBD</td>
+				<td>Yuan Luo</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>04/25/2022</td>
+				<td>Algorithmic Bias</td>
+				<td>Fei Wang</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>04/27/2022</td>
+				<td>ML for COVID-19 I</td>
+				<td>Fei Wang</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>05/02/2022</td>
+				<td>ML for COVID-19 II</td>
+				<td>Fei Wang</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>05/04/2022</td>
+				<td>Project Presentations</td>
+				<td>Student Teams</td>
+        			<td>&nbsp;</td>
+        			<td>&nbsp;</td>	
+			</tr>
+			<tr>
+				<td>05/09/2022</td>
+				<td>Class Wrap-up</td>
+				<td>Fei Wang</td>
+        			<td>&nbsp;</td>
+        			<td>Final Project Report Due</td>	
+			</tr>
+		</table>
+		<p class="credits">&copy; Fei Wang <br />
+		</ul>
+		
+		
+	</div>
+
+</body>
+</html>
